@@ -27,6 +27,7 @@ export default {
     props: ['rooms', 'currentRoom'],
     data: function (){
         return {
+            
             selected: '',
 
         }
